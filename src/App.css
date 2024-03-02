@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #1e84b7; /* Change to your desired background color */
+}
+
+.banner {
+  background-color: #fff;
+  color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  justify-content: center; /* Horizontally center the grid */
+  gap: 20px;
+  padding: 20px;
+}
+
+
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+.card a {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  color: #eceeef; /* Change to your desired link color */
+  text-decoration: none;
+}
+
+.card a:hover {
+  text-decoration: underline;
+}
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #1e84b7; /* Button background color */
+  color: #fff; /* Button text color */
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #156083; /* Button background color on hover */
+}
