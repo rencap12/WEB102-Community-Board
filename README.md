@@ -1,35 +1,38 @@
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Reneca Capuno**
 
-This web app: **insert description**
+This web app: **Displays different physical activities within a community, including images, descriptions, time, and date.**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [x] Buttons or links to a related resources are on each card component
+- [x] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
 * [ ] List anything else that you added to improve the site's functionality!
+* [x] - Made the background color and button color similar to create an overall design theme
+* [x] - Added an image to each of the events
+* [x] - Provided a Header for the web page   
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/ez4FJwG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -38,7 +41,9 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+- Had to remember destructuring brackets to get direct access to the props.
+- Worked with trying to center the events without losing the integrity of the image
+- Ensured that the styling for each of the attributes in the event display card (the button, link, text, image) were consistent with each other
 ## License
 
     Copyright [yyyy] [name of copyright owner]
