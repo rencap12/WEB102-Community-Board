@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/ez4FJwG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/ez4FJwG.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap 
@@ -46,7 +46,7 @@ Describe any challenges encountered while building the app.
 - Ensured that the styling for each of the attributes in the event display card (the button, link, text, image) were consistent with each other
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Reneca Capuno
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
