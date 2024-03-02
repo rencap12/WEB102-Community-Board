@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Community Board*
 
 Submitted by: **Reneca Capuno**
 
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/ez4FJwG.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/B4ZMtKa.gif' title='Video Demo' width='' alt='Video Demo' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap 
